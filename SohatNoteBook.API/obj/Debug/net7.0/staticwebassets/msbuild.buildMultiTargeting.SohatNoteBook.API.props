@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SohatNoteBook.API.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\bin\Debug\net7.0\SohatNoteBook.DataService.deps.json
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\bin\Debug\net7.0\SohatNoteBook.DataService.runtimeconfig.json
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\bin\Debug\net7.0\SohatNoteBook.DataService.dll
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\bin\Debug\net7.0\SohatNoteBook.DataService.pdb
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.csproj.AssemblyReference.cache
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.AssemblyInfoInputs.cache
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.AssemblyInfo.cs
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.csproj.CoreCompileInputs.cache
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.dll
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\refint\SohatNoteBook.DataService.dll
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.pdb
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.genruntimeconfig.cache
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\ref\SohatNoteBook.DataService.dll
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\bin\Debug\net7.0\SohatNoteBook.Entities.dll
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\bin\Debug\net7.0\SohatNoteBook.Entities.pdb
+C:\Users\benot\OneDrive\Bureau\.net tuto project\SohatNoteBook.DataService\obj\Debug\net7.0\SohatNoteBook.DataService.csproj.CopyComplete
